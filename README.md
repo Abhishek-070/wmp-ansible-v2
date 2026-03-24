@@ -1,1 +1,1 @@
-# amp-ansible-v2
+# wmp-ansible-v2
